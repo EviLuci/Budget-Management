@@ -1,2 +1,3 @@
 # GoogleSheetScripts
-Some utility functions i used in my google sheet
+
+Some utility functions i use in my google sheet
